@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# temp filed from hunyuan 3d
+mr_combined.png
+temp.glb
+
 # C extensions
 *.so
 
